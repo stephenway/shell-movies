@@ -5,8 +5,8 @@ Bash and ZShell themes inspired by great films.
 
 ## Movie List
 
-![Terminator Salvation `terminator.zsh-theme`](http://i.imgur.com/Qz9xV.png)
-
+![](http://i.imgur.com/Qz9xV.png)
+Terminator Salvation `terminator.zsh-theme`
 
 ## Movie Wishlist
 
